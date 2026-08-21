@@ -1,0 +1,6 @@
+{
+  "name": "ToolMint",
+  "description": "Tiny tools. Zero friction. Fast, privacy-first developer utilities that run 100% locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
